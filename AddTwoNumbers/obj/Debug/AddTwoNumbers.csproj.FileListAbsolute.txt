@@ -1,0 +1,2 @@
+C:\Users\Admin\Pictures\AddTwoNumbers\AddTwoNumbers\obj\Debug\AddTwoNumbers.csprojAssemblyReference.cache
+C:\Users\Admin\Pictures\AddTwoNumbers\AddTwoNumbers\obj\Debug\AddTwoNumbers.csproj.CoreCompileInputs.cache

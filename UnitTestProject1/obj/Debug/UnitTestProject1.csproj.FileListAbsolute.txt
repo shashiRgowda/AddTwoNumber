@@ -1,0 +1,2 @@
+C:\Users\Admin\Pictures\AddTwoNumbers\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+C:\Users\Admin\Pictures\AddTwoNumbers\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
